@@ -1,4 +1,4 @@
-# MongoDB-With-Python 
+# MongoDB With Python 
 
 ## This readme provides an overview of using MongoDB with Python for performing update queries, general queries, and using aggregate functions.
 
