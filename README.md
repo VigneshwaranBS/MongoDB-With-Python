@@ -1,11 +1,11 @@
-# MongoDB With Python 
+# MongoDB With Python...
 
 - This readme provides an overview of using MongoDB with Python for performing update queries, general queries, and using aggregate functions.
 
-## Prerequisites
+## Prerequisites 
 Before getting started, ensure you have the following:
 
-- Python installed on your system
+- Python installed on your system 
 - The pymongo library installed. You can install it using pip:
 ```
 pip install pymongo
